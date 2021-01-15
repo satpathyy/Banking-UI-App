@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/logo1"
+        android:icon="@drawable/sparks"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/logo1"
+        android:roundIcon="@drawable/sparks"
         android:supportsRtl="true"
         android:theme="@style/AppTheme_white">
 
@@ -27,7 +27,7 @@
 
         <activity android:name=".user_list"
             android:screenOrientation="portrait"
-            android:label="Banking System"
+            android:label="Sparks Bank"
             android:theme="@style/AppTheme">
         </activity>
 

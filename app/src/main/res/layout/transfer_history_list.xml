@@ -27,9 +27,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="name1"
+                android:textColor="@android:color/black"
                 android:textSize="15sp"
-                android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textStyle="bold"></TextView>
 
             <ImageView
                 android:id="@+id/arrow"
@@ -38,14 +38,15 @@
                 android:src="@drawable/arrow"
                 android:layout_marginHorizontal="5dp"
                 android:layout_gravity="center_vertical|center_horizontal"></ImageView>
+
             <TextView
                 android:id="@+id/name2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="name2"
+                android:textColor="@android:color/black"
                 android:textSize="15sp"
-                android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textStyle="bold"></TextView>
         </LinearLayout>
 
         <LinearLayout
@@ -75,26 +76,27 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Rs."
+                android:textColor="@android:color/black"
                 android:textSize="15sp"
-                android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textStyle="bold"></TextView>
 
             <TextView
                 android:id="@+id/balance"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="amount"
+                android:textColor="@android:color/black"
                 android:textSize="15sp"
-                android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textStyle="bold"></TextView>
+
             <TextView
                 android:id="@+id/rupeeslash"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text=" /-"
+                android:textColor="@android:color/black"
                 android:textSize="15sp"
-                android:textStyle="bold"
-                android:textColor="#00b2ff"></TextView>
+                android:textStyle="bold"></TextView>
         </LinearLayout>
 
         <TextView

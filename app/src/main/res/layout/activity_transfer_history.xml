@@ -17,9 +17,9 @@
         android:id="@+id/empty_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="No history"
+        android:text="@string/no_history"
         android:layout_centerInParent="true"
         android:textColor="#000"
-        android:textSize="15dp"
+        android:textSize="15sp"
         android:visibility="invisible"></TextView>
 </RelativeLayout>

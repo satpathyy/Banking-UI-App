@@ -6,7 +6,7 @@
     <item
         android:id="@+id/action_history"
         android:title="Search"
-        android:icon="@drawable/history"
+        android:icon="@drawable/blackhistory"
         app:showAsAction="always">
     </item>
 

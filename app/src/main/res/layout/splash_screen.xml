@@ -10,7 +10,7 @@
         android:layout_height="200dp"
         android:layout_marginTop="150dp"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/logo1"
+        android:src="@drawable/sparks"
         android:visibility="invisible"/>
 
     <TextView
@@ -20,7 +20,7 @@
         android:layout_below="@id/logo"
         android:layout_marginTop="30dp"
         android:layout_centerHorizontal="true"
-        android:text="BANKING SYSTEM"
+        android:text="BANKING SYSTEM APP"
         android:textAllCaps="false"
         android:textColor="#00b2ff"
         android:textSize="20dp"
@@ -48,7 +48,7 @@
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ALA V V N L MOUNIKA"
+            android:text="DEBASHIS SATPATHY"
             android:textSize="15sp"
             android:textStyle="bold"
             android:textColor="#00b2ff"

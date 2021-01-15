@@ -27,7 +27,7 @@
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_gravity="center_horizontal|center_vertical"
-                android:src="@drawable/user" />
+                android:src="@drawable/blueuser2" />
         </androidx.cardview.widget.CardView>
         <LinearLayout
             android:id="@+id/user_name"
@@ -87,7 +87,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="15dp"
                 android:textStyle="bold"
-                android:text="Eamil Id :"
+                android:text="Email Id :"
                 android:layout_marginRight="20dp"></TextView>
             <TextView
                 android:id="@+id/email"
@@ -201,13 +201,13 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="50dp"
             android:layout_marginBottom="50dp"
-            android:background="@drawable/rounded_button"
+            android:background="@color/colorPrimaryDark"
             android:paddingVertical="5dp"
             android:paddingHorizontal="10dp"
             android:text="Transfer money"
             android:textAllCaps="false"
-            android:textColor="#fff"
+            android:textColor="#000000"
             android:textSize="15dp"
-            android:textStyle="bold"></Button>
+            android:textStyle="normal"></Button>
     </RelativeLayout>
 </ScrollView>
